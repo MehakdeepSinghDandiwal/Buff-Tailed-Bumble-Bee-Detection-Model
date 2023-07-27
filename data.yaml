@@ -1,0 +1,8 @@
+path: ../BombusNaturalist2016-19-9
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['.', 'Buff-tailed-Bumble-Bee']
